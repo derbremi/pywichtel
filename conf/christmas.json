@@ -1,0 +1,19 @@
+{
+    "admin_name": "Jim",
+    "admin_mail": "jim@no_mail.com",
+
+    "participants": {
+        "Jim": "jim@no_mail.com",
+        "Bob": "bob@no_mail.com",
+        "Steve": "steve@no_mail.com",
+        "Judie": "judie@no_mail.com"
+    },
+    
+    "hashtable": [
+        "1b603567d01d38ea8aefcec4cf0155ce",
+        "05acb09fdc91e752ef2ab7adf2702e59",
+        "9de9125f6a1cd692e3948d5ffdfb76ce",
+        "4366ec700b311970dace317d3a4aa743",
+        "844336a114dc9ba06419e7616c3316e9"
+    ]
+}
